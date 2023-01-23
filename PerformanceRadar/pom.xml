@@ -9,12 +9,12 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.night.ipl</groupId>
-	<artifactId>performanceRadar</artifactId>
+	<artifactId>ipl_performanceRadar</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>PerformanceRadar</name>
+	<name>IPL_PerformanceRadar</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>13</java.version>
 	</properties>
 	<dependencies>
 		<dependency>

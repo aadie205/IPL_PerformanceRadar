@@ -8,6 +8,6 @@ public class HelloWorldController {
 	
 	@RequestMapping
 	public String getHelloWorld() {
-		return "Hello World! ";
+		return "Welcome to IPL Performance Radar";
 	}
 }

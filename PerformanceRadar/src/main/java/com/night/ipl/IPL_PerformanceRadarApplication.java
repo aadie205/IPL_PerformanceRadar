@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PerformanceRadarApplication {
+public class IPL_PerformanceRadarApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PerformanceRadarApplication.class, args);
+		SpringApplication.run(IPL_PerformanceRadarApplication.class, args);
 	}
 
 }
